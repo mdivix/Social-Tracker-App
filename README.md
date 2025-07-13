@@ -1,13 +1,16 @@
-# Social Tracker (Digital Wellbeing App)
+# Social Tracker App
 
-Track online presence and interaction stats of WhatsApp/Instagram contacts with Firebase sync, notifications, charts, and more.
+A digital wellbeing app to track interaction and online presence of friends on WhatsApp and Instagram using Accessibility Services.
 
 ## Features
-- Firebase login
-- Privacy policy screen
-- Online friend alerts
-- Interaction tracking
-- Firebase logs
-- Export data
+- Firebase Authentication
+- Accessibility Tracking (WhatsApp & Instagram)
+- Chart-based interaction analysis
+- Firebase Database sync
+- Online notifications
 
-## Unlicensed
+## ⚠️ Disclaimer
+This app uses Accessibility Services **with user permission and consent** to help users analyze their own digital habits. It does not collect message content.
+
+## License
+MIT
